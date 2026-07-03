@@ -10,3 +10,5 @@ __pycache__/
 DI_FLAG_project/*txt
 DI_FLAG_project/*.csv
 DI_FLAG_project/*.xlsx
+DI_FLAG_project/*.sav
+DI_FLAG_project/*.pkl
