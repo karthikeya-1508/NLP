@@ -4,3 +4,7 @@ Sentiment_Analysis Project/*.sav
 Sentiment_Analysis Project/*.pkl
 __pycache__/
 *.pyc
+
+
+
+DI_FLAG_project/*txt
