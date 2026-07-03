@@ -8,3 +8,4 @@ __pycache__/
 
 
 DI_FLAG_project/*txt
+DI_FLAG_project/*.csv
