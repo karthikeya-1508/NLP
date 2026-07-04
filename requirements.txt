@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+nltk
+
+streamlit
+joblib
+
+matplotlib
+seaborn
+
+jupyter
+notebook
+ipykernel
+
+xgboost
+imbalanced-learn
